@@ -1,3 +1,8 @@
 Gabriel
 Luca
+<<<<<<< HEAD
 Mariel
+=======
+Alejandra 
+Fabiola
+>>>>>>> a07bdc408aebd4ed76354e002ba7bfa691f49a62
