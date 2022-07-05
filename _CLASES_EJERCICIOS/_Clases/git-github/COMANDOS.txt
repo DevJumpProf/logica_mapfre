@@ -1,0 +1,9 @@
+git add nombredelarchivo (subo un archivo especifico)
+git add . (subo todos los archivos)
+git commit --m "comentario"   (compromiso = comentario del cambio)
+git push (subo cambios)
+
+
+git pull (actualizo cambios)
+
+git clone (clonacion de repositorio)
