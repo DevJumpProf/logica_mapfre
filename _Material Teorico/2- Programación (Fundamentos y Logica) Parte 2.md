@@ -1,4 +1,4 @@
-<img  src='./img/logo.png'  height='70px'>
+<img  src='../img/logo.png'  height='70px'>
 
 # Programación (Fundamentos y Logica)
 # Lección 2:
@@ -60,7 +60,7 @@ Notas:
 
 ## ¿CÓMO CREO UNA VARIABLE?
 
-A la hora de crear nuestra variable, vamos a tener que darle un identificador, por lo que usaremos las reglas vistas en el apartado de identificadores, y el tipo de dato que necesitamos que guarde. Para esto vamos a utilizar la palabra reservada Definir. La instrucción definir permite explicitar el tipo de una o más variables. 
+A la hora de crear nuestra variable, vamos a tener que darle un identificador, por lo que usaremos las reglas vistas en el apartado de identificadores, y el tipo de dato que necesitamos que guarde. Para esto vamos a utilizar la palabra reservdaa Definir. La instrucción definir permite explicitar el tipo de una o más variables. 
 
 ## EJERCICIO CREAR VARIABLE
 Vamos a poner en práctica lo que acabamos de ver, vamos a crear en PseInt, una variable de cada

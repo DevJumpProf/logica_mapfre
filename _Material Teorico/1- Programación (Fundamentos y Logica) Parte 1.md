@@ -1,4 +1,4 @@
-<img  src='./img/logo.png'  height='70px'>
+<img  src='../img/logo.png'  height='70px'>
 
 # Programación (Fundamentos y Logica)
 # Lección 1:
@@ -43,7 +43,6 @@ Los algoritmos son más importantes que los lenguajes de programación o las com
 
 Tanto el lenguaje de programación como la computadora son los medios para obtener un fin: conseguir que el algoritmo se ejecute y se efectúe el proceso correspondiente.
 
-
 ## CARACTERÍSTICAS FUNDAMENTALES DE LOS ALGORITMOS
 
 Las características fundamentales de los algoritmos son:
@@ -63,7 +62,7 @@ Quienes programamos debemos constantemente resolver problemas de manera algorít
 
 Lo anterior implica que un algoritmo básicamente consta de tres elementos: Datos de Entrada o Información de entrada, Procesos y la Información de Salida
 
-<img  src='./img/estructuradeunprograma.jpg'  height='70px'>
+<img  src='../img/estructuradeunprograma.jpg'  height='70px'>
 Estructura de un Programa: Datos de entrada, proceso y Salida. 
 
 ## ¿CÓMO REPRESENTAR UN ALGORITMO?
@@ -74,6 +73,6 @@ resolver un problema, con indicación expresa el orden lógico en que deben real
 
 Vamos a ver cómo sería un diagrama de flujo, de los pasos para cocinar un huevo:
 
-<img  src='./img/diagrama0.jpg'  height='350px'>
+<img  src='../img/diagrama0.jpg'  height='350px'>
 
 Como podemos ver, nos muestra paso a paso cómo cocinar un huevo y cada opción que tenemos a la hora de cocinar un huevo.
