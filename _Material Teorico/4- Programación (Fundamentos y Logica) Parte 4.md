@@ -1,4 +1,4 @@
-<img  src='./img/logo.png'  height='70px'>
+<img  src='../img/logo.png'  height='70px'>
 
 # Programación (Fundamentos y Logica)
 # Lección 4:
@@ -36,7 +36,7 @@ PSeInt es una herramienta para asistir a estudiantes en sus primeros pasos en pr
 
 http://pseint.sourceforge.net/
 
-<img  src='./img/PSeint.png' height='500px'>
+<img  src='../img/PSeint.png' height='500px'>
 
 Una vez instalado seleccionar la opción 3:
 
@@ -93,11 +93,11 @@ Ejecutar opción paso a paso y seleccionar explicar en detalle c/paso:
 
 Opcion paso a paso
 
-<img  src='./img/pap1.png'  height='180px'>
+<img  src='../img/pap1.png'  height='180px'>
 
 Configuracion
 
-<img  src='./img/pap2.png'  height='250px'>
+<img  src='../img/pap2.png'  height='250px'>
 
 ## Variables
 Primero tenemos que conocer el concepto de variable:
@@ -105,7 +105,7 @@ Primero tenemos que conocer el concepto de variable:
 En programación una variable es un espacio de memoria el cual nos servirá para almacenar un tipo de dato con un valor correspondiente.
 Imagina como una caja que guarda un tipo de dato/valor.
 
-<img  src='./img/variables.png'  height='250px'>
+<img  src='../img/variables.png'  height='250px'>
 
 ## Datos (pseint)
 Los tipos posibles son NUMERO/REAL/ENTERO, LOGICO, CARACTER/TEXTO/CADENA.
@@ -151,11 +151,11 @@ Una convención segura a seguir es la llamada "minúscula mayúsculas intercalad
 El punto y coma indica el final de una sentencia, pero Javascript lo detecta automáticamente, por ende puedes o no colocarlo. A excepción del siguiente ejemplo:
 
 
-<img  src='./img/puntoycoma.jpg'  height='200px'>
+<img  src='../img/puntoycoma.jpg'  height='200px'>
 
 ## Leer
 
-<img  src='./img/pap2.png'  height='250px'>
+<img  src='../img/pap2.png'  height='250px'>
 
 La instrucción Leer permite ingresar información desde el ambiente.
 Si una variable no existe, se crea durante la lectura. Si la variable existe se pierde su valor anterior ya que tomará el valor nuevo, razón por la cual se dice que la lectura es "destructiva" (destruye el valor que tenía previamente la variable).

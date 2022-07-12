@@ -1,4 +1,4 @@
-<img  src='./img/logo.png'  height='70px'>
+<img  src='../img/logo.png'  height='70px'>
 
 # Programación (Fundamentos y Logica)
 # Lección 5:
@@ -140,7 +140,7 @@ FinAlgoritmo
 
 Diagrama:
 
-<img  src='./img/if_else2.jpg'  height='300px'>
+<img  src='../img/if_else2.jpg'  height='300px'>
 
 -------------------------------------------------
 
@@ -172,7 +172,7 @@ Codigo: Crear, Guardar y enviar el archivo.
 
 Diagrama:
 
-<img  src='./img/if_else3.jpg'  height='300px'>
+<img  src='../img/if_else3.jpg'  height='300px'>
 
 ## switch (segun)
 
@@ -211,7 +211,7 @@ FinAlgoritmo
 
 Diagrama: 
 
-<img  src='./img/semaforo.jpg'  height='250px'>
+<img  src='../img/semaforo.jpg'  height='250px'>
 
 -------------------------------------------------
 Ejercicio
@@ -220,7 +220,7 @@ Codigo: Crear un programa que pida un numero
 y le recomiende a la persona un libro-pelicula o juego segun la opción indicada.
 
 Diagrama:
-<img  src='./img/switch.jpg'  height='250px'>
+<img  src='../img/switch.jpg'  height='250px'>
 
 
 ## While
@@ -239,7 +239,7 @@ Algoritmo while
 FinAlgoritmo
 ```
 
-<img  src='./img/while.jpg'  height='500px'>
+<img  src='../img/while.jpg'  height='500px'>
 
 
 Aleatorio:
@@ -297,7 +297,7 @@ L) SiNo.-"Perdiste!! se te acabaron los intentos! el numero era: " nAzar
 
 Diagrama: 
 
-<img  src='./img/while2.jpg'  height='500px'>
+<img  src='../img/while2.jpg'  height='500px'>
 
 
 
