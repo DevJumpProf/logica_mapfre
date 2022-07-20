@@ -11,7 +11,7 @@ Algoritmo aprender_while
 	
 	Escribir "Escribir un numero"
 	Leer nUser	
-
+	
 	Mientras nAzar <> nUser y intentos > 1 Hacer		
 		Si nAzar > nUser Entonces
 			Escribir "Muy bajo"
@@ -20,10 +20,10 @@ Algoritmo aprender_while
 		Fin Si		
 		intentos = intentos - 1			
 		Escribir "Te quedan ", intentos, " intentos"
-
+		
 		Leer nUser
 	Fin Mientras
-
+	
 	
 	Si nAzar = nUser Entonces
 		Escribir "Adivinaste! el numero era ", nAzar
